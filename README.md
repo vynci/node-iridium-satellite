@@ -1,6 +1,6 @@
-# Interface with Iridium 9602 modem using Nodejs
+# Interface with Iridium 9602/3 modem using Nodejs
 
-This is the source code from this [article](https://www.vynci.dev/posts/sending-data-to-outer-space-using-javascript). Please go through the article to get an idea on how this works.
+This is the source code from this [article](https://www.vynci.dev/posts/sending-data-to-outer-space-using-javascript). Please go through the article to get a better picture on how this works.
 
 ## Quick start
 
