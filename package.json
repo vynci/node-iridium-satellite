@@ -1,0 +1,17 @@
+{
+  "name": "node-iridium-satellite",
+  "version": "1.0.0",
+  "description": "Simple communication with the Iridium 9602/9603 SBD module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@serialport/parser-delimiter": "9.0.7",
+    "@serialport/parser-readline": "9.0.7",
+    "serialport": "9.2.0",
+    "uuid": "^9.0.0"
+  }
+}
